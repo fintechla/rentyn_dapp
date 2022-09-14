@@ -4258,6 +4258,7 @@ body .modal-backdrop {
 .project-menu-area ul li .tab-link {
   color: #FFFFFF;
   padding: 18px 28px;
+  background-color: #000360;
 }
 
 .project-menu-area .project-left-menu .tab-link {
@@ -4266,6 +4267,7 @@ body .modal-backdrop {
   position: relative;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.7);
+  background-color: #000360;
 }
 
 .project-menu-area .project-left-menu .tab-link::before {
@@ -4402,7 +4404,7 @@ body .modal-backdrop {
 
 /*--- Gamfi Explore Content Section CSS ---*/
 .gamfi-explore-content {
-  background: #090A1A;
+  background: #000345;
 }
 
 .gamfi-explore-content .project-menu-area {
@@ -8685,6 +8687,7 @@ div.latest-item .hover-shape-bg {
 
 .gamfi-breadcrumbs-section .breadcrumbs-form.mr-0 form {
   margin-right: 0;
+  background-color: #000360;
 }
 
 /*--- FAQ page style ---*/
@@ -13731,7 +13734,7 @@ div.latest-item .hover-shape-bg {
 
 /*--- Gamfi Breadcrumbs Section CSS ---*/
 .gamfi-breadcrumbs-section {
-  background: url("../images/bg/breadcrumbs-bg.jpg");
+  background: url("../images/bg/");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13741,7 +13744,7 @@ div.latest-item .hover-shape-bg {
 .gamfi-breadcrumbs-section.breadcrumbs-style2 {
   padding-top: 130px;
   padding-bottom: 115px;
-  background: url("../images/bg/breadcrumbs-bg2.jpg");
+  background: url("../images/bg/");
   position: relative;
   background-position: bottom center;
   z-index: 2;
@@ -13876,7 +13879,7 @@ div.latest-item .hover-shape-bg {
 
 /*--- blog breadcrumb style ---*/
 .gamfi-breadcrumbs-section.blog-breadcrumbs {
-  background: url("../images/blog/blog-bg.jpg");
+  background: url("../images/blog/");
   background-size: cover;
   padding-top: 410px;
   padding-bottom: 45px;
